@@ -35,7 +35,7 @@ export default function CheckoutPage() {
 						className="border p-4 mb-2"
 					>
 						<span>
-							{product.name} - ${product.price}
+							{product.name} - ₹{product.price}
 						</span>
 					</div>
 				))}
