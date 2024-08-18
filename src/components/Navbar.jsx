@@ -9,7 +9,7 @@ export default function Navbar() {
 					href="/"
 					className="text-white text-3xl font-bold"
 				>
-					flipkart
+					ekart
 				</Link>
 
 				<div className="flex items-center gap-2">
